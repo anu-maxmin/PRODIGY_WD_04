@@ -1,7 +1,8 @@
 # PRODIGY_WD_04
 
 
-## Project Title: Personal Portfolio
+## Task
+Build a personal portfolio website that showcase your skills, projects, and accomplishments as a web developer. Design an attractive and visually appending layout that captures visitor's attention. Include a home page with a capitivating headline, professional photo, and summary of your skills. Provide an "About me" section with a detailed background, education, and professional experience. 
 
 **Overview:**
 The Personal Portfolio project is a self-promotional website designed to showcase an individual's skills, projects, and accomplishments. It serves as an online resume, providing a comprehensive overview of the creator's expertise and experiences.
